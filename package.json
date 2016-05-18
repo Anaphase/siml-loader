@@ -1,0 +1,19 @@
+{
+  "name": "siml-loader",
+  "version": "0.0.1",
+  "author": "Colin Wood <colinjameswood@gmail.com>",
+  "description": "siml loader module for webpack",
+  "peerDependencies": {
+    "siml": "0.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Anaphase/siml-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
